@@ -5,6 +5,10 @@ Hola , mi nombre es **Jennifer Giménez**.
 apasionada por la `tecnología y el mundo tecnologico`.
 Las herramientas que he aprendido en mi formación son * **HTML,CSS,JAVASCRIPT y
 MARKDOWN.** *
+```bash
+# Este es un ejemplo de código en Maarkdown
+echo "Hola, soy jennifer y este es mi curriculum en Markdown"
+
 Mi formación academica es :
 1. **Grado Medio de SMX**
 2. **Grado superior de ASIR** *(actualmente cursando)*. 
@@ -22,6 +26,7 @@ Mis habilidades tecnicas informáticas son :
 En el siguiente enlace está mi perfil profesional : 
 
 Aqui esta mi perfil profesional en [Job.today] (https.//jobtoday.com/jennifer)
+
 En el siguiente repositorio se encuentra mi pequeño proyecto [mi_proyecto.md]
 para poder observar cuales son mi trabajos.
 
