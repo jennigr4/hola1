@@ -5,9 +5,6 @@ Hola , mi nombre es **Jennifer Giménez**.
 apasionada por la `tecnología y el mundo tecnologico`.
 Las herramientas que he aprendido en mi formación son * **HTML,CSS,JAVASCRIPT y
 MARKDOWN.** *
-```bash
-# Este es un ejemplo de código en Maarkdown
-echo "Hola, soy jennifer y este es mi curriculum en Markdown"
 
 Mi formación academica es :
 1. **Grado Medio de SMX**
@@ -42,3 +39,6 @@ para poder observar cuales son mi trabajos.
 |Francés| A-2   |
 ---
 
+``bash 
+# Este es mi curriculum y esto es un ejemplo de codigo en Markdown
+echo "Hola, soy Jennifer y este es mi curriculum en Mardown"
