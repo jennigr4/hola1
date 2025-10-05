@@ -1,4 +1,4 @@
-# **Curriculum Vitae **
+# **Curriculum Vitae**
 
 ## Administradora de Sistemas Informáticos en Red 
 
