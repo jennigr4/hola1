@@ -39,6 +39,6 @@ para poder observar cuales son mi trabajos.
 |Francés| A-2   |
 ---
 
-``bash 
+```bash 
 # Este es mi curriculum y esto es un ejemplo de codigo en Markdown
 echo "Hola, soy Jennifer y este es mi curriculum en Mardown"
